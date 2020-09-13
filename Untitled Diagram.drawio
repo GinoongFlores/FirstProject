@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T15:48:40.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="lWWZJYwchubO3P_eRAkd" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T15:56:00.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yzDqxNY9qkfVV09q4Z2p" version="13.6.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1117" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,8 +31,8 @@
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DxQTQDj1nQIEqU1Zx3Uc-5" target="DxQTQDj1nQIEqU1Zx3Uc-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-5" value="HAVE FACE SHIELD/ FACE MASK" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="361" y="280" width="106" height="100" as="geometry" />
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-5" value="HAVE FACE SHIELD/ FACE MASK" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="361" y="280" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,7 +79,7 @@
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-48" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="73" y="331" as="sourcePoint" />
-            <mxPoint x="374" y="330.58" as="targetPoint" />
+            <mxPoint x="360" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-70" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DxQTQDj1nQIEqU1Zx3Uc-85">
@@ -113,12 +113,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="467" y="749.29" as="sourcePoint" />
             <mxPoint x="638" y="749.29" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-81" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=0;startSize=6;jumpSize=6;jumpStyle=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DxQTQDj1nQIEqU1Zx3Uc-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473" y="894.29" as="sourcePoint" />
-            <mxPoint x="644" y="894" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-82" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DxQTQDj1nQIEqU1Zx3Uc-94">
@@ -175,8 +169,8 @@
             <mxPoint x="638" y="749.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-98" value="IF LOWER&lt;br&gt;THAN 37&amp;nbsp;&lt;a href=&quot;https://www.degreesymbol.net/&quot; style=&quot;color: rgb(102 , 0 , 153) ; cursor: pointer ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: small ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-size: 20px ; font-weight: normal ; margin: 0px 0px 3px ; padding: 4px 0px 0px ; display: inline-block ; line-height: 1.3&quot;&gt;°&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="885" width="70" height="20" as="geometry" />
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-98" value="IF LOWER&lt;br style=&quot;font-size: 13px;&quot;&gt;THAN 37&amp;nbsp;&lt;a href=&quot;https://www.degreesymbol.net/&quot; style=&quot;color: rgb(102, 0, 153); cursor: pointer; font-family: arial, sans-serif; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-size: 13px; font-weight: normal; margin: 0px 0px 3px; padding: 4px 0px 0px; display: inline-block; line-height: 1.3;&quot;&gt;°&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="882.5" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-100" value="" style="endArrow=none;html=1;sourcePerimeterSpacing=0;startSize=6;jumpSize=6;jumpStyle=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -192,8 +186,8 @@
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-121" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="609.29" as="sourcePoint" />
-            <mxPoint x="140" y="609" as="targetPoint" />
+            <mxPoint x="189" y="608" as="sourcePoint" />
+            <mxPoint x="139" y="609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-128" value="IF YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -201,7 +195,7 @@
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-131" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="609.29" as="sourcePoint" />
+            <mxPoint x="640" y="610" as="sourcePoint" />
             <mxPoint x="690" y="609.5799999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -214,12 +208,12 @@
             <mxPoint x="60" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-138" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="DxQTQDj1nQIEqU1Zx3Uc-137">
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-138" value="IF NO" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="DxQTQDj1nQIEqU1Zx3Uc-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-139" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-139" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DxQTQDj1nQIEqU1Zx3Uc-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="467" y="329.71" as="sourcePoint" />
+            <mxPoint x="480" y="330" as="sourcePoint" />
             <mxPoint x="768" y="329.2899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -229,7 +223,7 @@
             <mxPoint x="769.04" y="578.6999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-141" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="DxQTQDj1nQIEqU1Zx3Uc-140">
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-141" value="IF YES" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="DxQTQDj1nQIEqU1Zx3Uc-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-142" value="WASH HANDS&amp;nbsp;&lt;br&gt;WITH SANITIZER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -259,10 +253,10 @@
             <mxPoint x="40" y="609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-153" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-153" value="" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;align=center;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="609" as="sourcePoint" />
-            <mxPoint x="9" y="1000" as="targetPoint" />
+            <mxPoint x="9" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-154" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -300,6 +294,21 @@
             <mxPoint x="412" y="1040" as="sourcePoint" />
             <mxPoint x="314" y="1040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-168" value="" style="endArrow=none;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8" y="1160" as="sourcePoint" />
+            <mxPoint x="769" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-170" value="" style="endArrow=classic;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="769" y="1160" as="sourcePoint" />
+            <mxPoint x="770" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-172" value="IF HIGHER THAN&amp;nbsp;&lt;span style=&quot;font-size: 13px;&quot;&gt;37&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.degreesymbol.net/&quot; style=&quot;color: rgb(102, 0, 153); cursor: pointer; font-family: arial, sans-serif; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-size: 13px; font-weight: normal; margin: 0px 0px 3px; padding: 4px 0px 0px; display: inline-block; line-height: 1.3;&quot;&gt;°&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="1025" width="87" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
