@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-13T15:56:00.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="yzDqxNY9qkfVV09q4Z2p" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-13T15:56:27.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="JI5MuBYkrWtM6fjF9DzM" version="13.6.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1303" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -28,9 +28,6 @@
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-4" value="GO TO MALL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="DxQTQDj1nQIEqU1Zx3Uc-5" target="DxQTQDj1nQIEqU1Zx3Uc-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-5" value="HAVE FACE SHIELD/ FACE MASK" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="361" y="280" width="110" height="100" as="geometry" />
         </mxCell>
@@ -38,12 +35,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="413.58" y="239.99999999999994" as="sourcePoint" />
             <mxPoint x="413.58" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413.5799999999999" y="380" as="sourcePoint" />
-            <mxPoint x="413.5799999999999" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-12" value="IF AGE IS &lt;br&gt;BELOW 21" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -309,6 +300,12 @@
         </mxCell>
         <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-172" value="IF HIGHER THAN&amp;nbsp;&lt;span style=&quot;font-size: 13px;&quot;&gt;37&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.degreesymbol.net/&quot; style=&quot;color: rgb(102, 0, 153); cursor: pointer; font-family: arial, sans-serif; font-size: 13px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;h3 class=&quot;LC20lb DKV0Md&quot; style=&quot;font-size: 13px; font-weight: normal; margin: 0px 0px 3px; padding: 4px 0px 0px; display: inline-block; line-height: 1.3;&quot;&gt;°&lt;/h3&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="1025" width="87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DxQTQDj1nQIEqU1Zx3Uc-178" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415.17000000000024" y="380" as="sourcePoint" />
+            <mxPoint x="415.17000000000024" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
